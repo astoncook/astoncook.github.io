@@ -1,0 +1,23 @@
+body {
+    font-size: 16px;
+    background-color: beige;
+}
+
+header,
+main,
+footer {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: burlywood;
+    color: whitesmoke;
+}
+
+main p {
+    margin: .5rem;
+    border: 1px solid #bbb;
+    padding: 5px;
+    background-color: white;
+}
